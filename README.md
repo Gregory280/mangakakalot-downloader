@@ -9,11 +9,15 @@ If you want to download just a specific chapter use the single chapter downloade
 
 
 Through your terminal run the following gem installation in order to run the scripts
-`
+ `
 
-gem install nokogiri
-gem install rest-client
-gem install open-uri
-gem install fileutils
+        gem install nokogiri
+        
+        gem install rest-client
+        
+        gem install open-uri
+        
+        gem install fileutils
+        
 
-`
+  `
